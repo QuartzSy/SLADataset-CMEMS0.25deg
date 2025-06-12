@@ -25,3 +25,10 @@ To ensure **reproducibility** of our research, we publicly release the **process
 
 ---
 
+## 📦 Dataset Download
+
+The full processed dataset is archived and publicly available at Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15649392.svg)](https://doi.org/10.5281/zenodo.15649392)  
+👉 **[Download from Zenodo](https://doi.org/10.5281/zenodo.15649392)**
+
