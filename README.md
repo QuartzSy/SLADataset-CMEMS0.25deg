@@ -20,7 +20,7 @@ To ensure **reproducibility** of our research, we publicly release the **process
 - **Time Range:** 2001-01-01 to 2022-12-31  
 - **Temporal Resolution:** Daily  
 - **Spatial Resolution:** 0.25° × 0.25°  
-- **Original Source:** CMEMS DUACS L4 SLA (deprecated)  
+- **Original Source:** CMEMS DUACS L4 SLA 
 - **File Format:** NetCDF (.nc)  
 
 ---
