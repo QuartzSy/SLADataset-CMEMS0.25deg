@@ -16,7 +16,7 @@ To ensure **reproducibility** of our research, we publicly release the **process
 
 ## 📌 Dataset Summary
 
-- **Region:** South China Sea  
+- **Region:** South China Sea  [102.1250°E-121.8750°E, 4.8750°N-24.6250°N]
 - **Time Range:** 2001-01-01 to 2022-12-31  
 - **Temporal Resolution:** Daily  
 - **Spatial Resolution:** 0.25° × 0.25°  
